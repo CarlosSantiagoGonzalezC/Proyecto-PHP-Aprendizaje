@@ -22,7 +22,6 @@
     </form>
     <?php
         if(isset($_POST['txtNombre'])&& isset($_POST['txtCodigo']))
-
             require_once"conexion.php";
     ?>
     
